@@ -11,7 +11,7 @@ software development, cybersecurity, physics, and cosmology.
   https://github.com/phoenixM83/RANSOMWARE-STUDY-PYTHON
 
 - 🔐 WannaCry Educational Simulation  
-  https://github.com/phoenixM83/Wannacry-Educational-Simulation
+  https://github.com/phoenixM83/wannacry-educational-simulation
 
 - 🧪 Malware / Study Project (Maria)  
   https://github.com/phoenixM83/maria
