@@ -10,7 +10,7 @@ This repository is a central index of my public projects, covering
 - 🛡️ **Ransomware Study (Python)**  
   https://github.com/phoenixM83/RANSOMWARE-STUDY-PYTHON  
 
-- 🔐 **WannaCry Educational Simulation**  
+-  **WannaCry Educational Simulation**  
   https://https://github.com/phoenixM83/wannacry-educational-simulatioin 
 
 - 🧪 **Malware / Study Project (Maria)**  
